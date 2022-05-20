@@ -1,14 +1,4 @@
-- 👋 Hi, I’m @AliRaza227
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-AliRaza227/AliRaza227 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-https://github.com/AliRaza227
+https://aliraza227.github.io/personal_portfolio/
 -----------------------------
 Portfolio
 https://aliraza227.github.io/myPortfolio
@@ -43,5 +33,3 @@ https://aliraza227.github.io/LMS/
 Cold Drink
 https://aliraza227.github.io/ColdDrink/
 -----------------------------
-Personal Portfolio
-https://aliraza227.github.io/personal_portfolio/
